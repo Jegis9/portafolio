@@ -42,21 +42,22 @@ export class SkillsComponent {
       id: 1,
       icon: "💻",
       title: "Desarrollo",
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      description: "Herramientas con las que desarrollo sistemas web",
       skill: "Html, Css, Js, Python, Php, Sql",
     },
     {
       id: 2,
       icon: "⚙️",
       title: "Herramientas",
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      description: "Herramientas con las que trabajo",
       skill: "Github, VsCode, Aws",
     },
     {
       id: 3,
       icon: "📚",
       title: "Aprendiendo",
-      description: "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      description:
+        "Actualizando mis conocimientos y habilidades para mejorar en el area",
       skill: "Angular, TypeScript, Habilidades blandas",
     },
   ];

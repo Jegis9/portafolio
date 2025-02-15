@@ -10,7 +10,9 @@ import { Component } from "@angular/core";
         <div class="space-x-6">
           <a href="#about" class="hover:text-green-400">Sobre mi</a>
           <a href="#projects" class="hover:text-green-400">Proyectos</a>
-          <a href="#contact" class="underline hover:text-green-100 "
+          <a
+            href="mailto:ixcaquic22@gmail.com"
+            class="underline hover:text-green-100 "
             >Contacto</a
           >
         </div>

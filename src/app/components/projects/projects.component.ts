@@ -43,14 +43,14 @@ import { CommonModule } from "@angular/common";
 })
 export class ProjectsComponent {
   projects = [
-    {
-      id: 1,
-      title: "Proyecto 1",
-      description: "Sistema de simposio",
-      stack: "ApiRest, Angular, AzureBlob",
-      image: "img/laptop.avif",
-      link: "#",
-    },
+    // {
+    //   id: 1,
+    //   title: "Proyecto 1",
+    //   description: "Sistema de simposio",
+    //   stack: "ApiRest, Angular, AzureBlob",
+    //   image: "img/laptop.avif",
+    //   link: "https://jegis9.github.io/sim24/index.html",
+    // },
     {
       id: 2,
       title: "Proyecto 2",
@@ -71,10 +71,10 @@ export class ProjectsComponent {
     {
       id: 4,
       title: "Proyecto 4",
-      description: "Frontend y backend de clinica",
-      stack: "Html, Css, Bootstrap, Java",
+      description: "Portafolio personal",
+      stack: "Angular",
       image: "img/laptop4.avif",
-      link: "https://jegis9.github.io/Jegiis9.github.io/",
+      link: "https://jegis9.github.io/portafolio/",
     },
     {
       id: 5,
