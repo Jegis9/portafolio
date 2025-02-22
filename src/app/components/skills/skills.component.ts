@@ -43,14 +43,14 @@ export class SkillsComponent {
       icon: "💻",
       title: "Desarrollo",
       description: "Herramientas con las que desarrollo sistemas web",
-      skill: "Html, Css, Js, Python, Php, Sql",
+      skill: "Html, Css, Js, Python, Php, Sql, Angular-básico",
     },
     {
       id: 2,
       icon: "⚙️",
       title: "Herramientas",
       description: "Herramientas con las que trabajo",
-      skill: "Github, VsCode, Aws",
+      skill: "Github, VsCode, Aws, Docker",
     },
     {
       id: 3,
